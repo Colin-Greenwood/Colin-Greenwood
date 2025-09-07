@@ -1,16 +1,12 @@
 ## Hi there 👋
-
-<!--
-**Colin-Greenwood/Colin-Greenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is Colin Greenwood I attend University of Rio Grande
+# Skills
+## -python 
+-c
+## 🎯 Current Learning Goals
+- Improve my knowledge of cloud platforms (AWS, Google Cloud, Azure)
+- Gain experience with AI & Machine Learning applications
+- Strengthen problem-solving and algorithm design skills
+## Email:cgreenwood01@rio.edu
+## ⚡ Fun Facts
+- 🎸 I play guitar and love how music theory relates to programming logic.
