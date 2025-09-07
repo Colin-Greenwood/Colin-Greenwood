@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## My name is Colin Greenwood I attend University of Rio Grande
 # Skills
-## -python 
--c
+## -python, c
 ## 🎯 Current Learning Goals
 - Improve my knowledge of cloud platforms (AWS, Google Cloud, Azure)
 - Gain experience with AI & Machine Learning applications
